@@ -1,0 +1,7 @@
+node_modules/
+.auth/
+downloads/
+*.log
+*.out
+mode.json
+config.json
